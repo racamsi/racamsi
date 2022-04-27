@@ -27,4 +27,4 @@ Stats](https://github-readme-stats.vercel.app/api?username=racamsi&count_private
 ---
 
 [![Github](https://img.shields.io/badge/-racamsi-black?style=flat&logo=Github&logoColor=white)](https://github.com/racamsi)
-[![LinkedIn](https://img.shields.io/badge/in-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-acar/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-acar/)
