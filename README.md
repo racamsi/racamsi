@@ -8,7 +8,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
 
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=Cisco&logoColor=white)
-![Juniper](https://img.shields.io/badge/-Juniper-84B135?style=flat&logo=Juniper&logoColor=white)
+![Juniper](https://img.shields.io/badge/-Juniper-84B135?style=flat&logo=junipernetwork&logoColor=white)
 ![pfSense](https://img.shields.io/badge/-pfSense-212121?style=flat&logo=pfSense&logoColor=white)
 
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=VMware&logoColor=white)
