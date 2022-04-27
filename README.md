@@ -35,10 +35,10 @@
 ![PHP](https://img.shields.io/badge/-PHP-mediumpurple?style=flat&logo=PHP&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-lightsteelblue?style=flat&logo=MySQL&logoColor=white)
 
-## GitHub Statistics
+<!-- ## GitHub Statistics
 
 ![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=racamsi&count_private=true&show_icons=true&theme=dark)
+Stats](https://github-readme-stats.vercel.app/api?username=racamsi&count_private=true&show_icons=true&theme=dark) -->
 
 ---
 
