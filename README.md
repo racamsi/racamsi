@@ -16,8 +16,8 @@
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=VirtualBox&logoColor=white)
 ![QEMU](https://img.shields.io/badge/-QEMU-FF6600?style=flat&logo=QEMU&logoColor=white)
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=AWS&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=GCP&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=Ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white)
